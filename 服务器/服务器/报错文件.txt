@@ -1,0 +1,37 @@
+(2)报错类型:list index out of range!
+(2)报错类型:list index out of range!
+(2)报错类型:list index out of range!
+(2)报错类型:[WinError 10053] 你的主机中的软件中止了一个已建立的连接。!
+(1)报错类型:[WinError 10053] 你的主机中的软件中止了一个已建立的连接。!
+(2)报错类型:[WinError 10053] 你的主机中的软件中止了一个已建立的连接。!
+(1)报错类型:[WinError 10053] 你的主机中的软件中止了一个已建立的连接。!
+(2)报错类型:[WinError 10053] 你的主机中的软件中止了一个已建立的连接。!
+(1)报错类型:[WinError 10053] 你的主机中的软件中止了一个已建立的连接。!
+(2)报错类型:main thread is not in main loop!
+(2)报错类型:bad stickyness value "Z": must be a string containing n, e, s, and/or w!
+(2)报错类型:bad stickyness value "Z": must be a string containing n, e, s, and/or w!
+(2)报错类型:'Pyt_f2' object has no attribute 'height_width_text'!
+(2)报错类型:'Pyt_f2' object has no attribute 'height_width_text'!
+(2)报错类型:'Pyt_f2' object has no attribute 'var2'!
+(2)报错类型:[Errno 2] No such file or directory: 'frtyfdtygh'!
+(2)报错类型:[Errno 2] No such file or directory: 'frtyfdtygh'!
+(2)报错类型:[Errno 2] No such file or directory: 'frtyfdtygh'!
+(2)报错类型:[Errno 2] No such file or directory: 'frtyfdtygh'!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:main thread is not in main loop!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:invalid command name ".!text3"!
+(2)报错类型:main thread is not in main loop!
